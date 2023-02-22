@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+
+.box {
+    color: white;
+}
+
+.box1 {
+    background: lime;
+    flex-basis: 5%;
+    font-size: 2rem;
+}
+
+.box2 {
+    background: lightskyblue;
+    flex-basis: 15%;
+    font-size: 7rem;
+}
+
+.box3 {
+    background: darkblue;
+    flex-basis: 30%;
+    font-size: 12rem;
+}
+
+.box4 {
+    background: darkmagenta;
+    flex-basis: 15%;
+    font-size: 7rem;
+}
+
+.box5 {
+    background: darkorange;
+    flex-basis: 5%;
+    font-size: 2rem;
+}
