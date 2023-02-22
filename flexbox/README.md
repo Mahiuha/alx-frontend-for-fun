@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [diegozencode](https://github.com/Mahiuha)
+* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
